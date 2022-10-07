@@ -1,6 +1,6 @@
 
 - Hi, I'm Gauri Renjith.
-- I'm a high school student in CA, USA.
+- I'm a high school student in the SF Bay Area. 
 - I'm interested in computer science (particularly artificial intelligence and 
 deep learning) and biology.
 <!---
